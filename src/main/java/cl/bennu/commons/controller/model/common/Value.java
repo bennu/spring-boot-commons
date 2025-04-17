@@ -10,6 +10,6 @@ import java.io.Serializable;
 public class Value implements Serializable {
 
     private Long id;
-    private String value;
+    private Object value;
 
 }
