@@ -7,7 +7,7 @@
 
     <groupId>cl.bennu</groupId>
     <artifactId>spring-boot-commons</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <name>bennu-spring-boot-commons</name>
     <description>Utilitarios bennu para SpringBoot</description>
     <url>https://github.com/bennu/spring-boot-commons</url>
@@ -48,7 +48,7 @@
         <dependency>
             <groupId>cl.bennu</groupId>
             <artifactId>commons</artifactId>
-            <version>1.2.0</version>
+            <version>1.3.0</version>
         </dependency>
 
         <dependency>
