@@ -15,7 +15,7 @@ LTS releases: 17 and 21.
 <dependency>
     <groupId>cl.bennu</groupId>
     <artifactId>spring-boot-commons</artifactId>
-    <version>1.1.0</version>
+    <version>2.0.0</version>
 </dependency>
 ```
 
@@ -36,4 +36,4 @@ Dependencies
 ------------
 
 - commons 1.7.1
-- spring-web 6.2.5
+- spring-web 7.0.7
