@@ -15,7 +15,7 @@ LTS releases: 17 and 21.
 <dependency>
     <groupId>cl.bennu</groupId>
     <artifactId>spring-boot-commons</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
@@ -35,5 +35,5 @@ This code is licensed under the [MIT License](https://opensource.org/license/mit
 Dependencies
 ------------
 
-- commons 1.2.0
+- commons 1.7.1
 - spring-web 6.2.5
